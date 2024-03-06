@@ -26,13 +26,7 @@ Run the compiled program with an optional -R flag to list the contents of subdir
 
 Suppose we have the following directory structure:
 
-example_directory/
-├── file1.txt
-├── file2.txt
-├── subdir1/
-│   ├── subfile1.txt
-│   └── subfile2.txt
-└── subdir2/
-    └── subsubdir/
-        └── subsubfile.txt
-
+![Map](examples/example_input.png) 
+<br>
+Running the program in the example_directory would produce output similar to the following:
+![Map](examples/example_output.png) 
