@@ -26,7 +26,8 @@ Run the compiled program with an optional -R flag to list the contents of subdir
 
 Suppose we have the following directory structure:
 
-![Map](examples/example_input.png) 
+![Map](example/example_input.png) 
 <br>
 Running the program in the example_directory would produce output similar to the following:
-![Map](examples/example_output.png) 
+<br>
+![Map](example/example_output.png) 
